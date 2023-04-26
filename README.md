@@ -1,10 +1,10 @@
 # Simple Shell Project
 
 ## Requirements
- .OS - Ubuntu 20.04 LTS
- .Programmign language - C
- .Compiler: gcc
- .Programming style: Betty
+ 1. OS - Ubuntu 20.04 LTS
+ 2. Programming language - C
+ 3. Compiler: gcc
+ 4. Programming style: Betty
 
 ## About
  *This  is a group project about simple shell*
